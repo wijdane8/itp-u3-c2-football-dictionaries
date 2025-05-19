@@ -128,3 +128,16 @@ And finally this is really similar to the previous assignment but we're adding o
   }
 }
 ```
+
+
+THE OUTPUT OF THE ASSIGNMENTS
+
+#1
+![image](https://github.com/user-attachments/assets/f33cf106-fa70-4b65-9442-370a956d27ac)
+
+#2
+![image](https://github.com/user-attachments/assets/cccab5aa-22a3-474f-a870-b7c9cfc4fea1)
+
+#3
+![image](https://github.com/user-attachments/assets/34e220cd-f605-4403-9c87-a1879190566d)
+![image](https://github.com/user-attachments/assets/8737bf23-664d-4593-931e-febb903662b2)
